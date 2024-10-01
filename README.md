@@ -1,4 +1,4 @@
-waipahu
+### waipahu
 =====
 
 An OTP application
@@ -6,4 +6,15 @@ An OTP application
 Build
 -----
 
-    $ rebar3 compile
+    $ rebar3 new umbrella waipahu
+
+#### 1 Oct 2024 by Oleg G.Kapranov
+
+[1]: https://rebar3.org/docs/basic_usage/
+[2]: https://rebar3.org/docs/getting-started/
+[3]: https://medium.com/@kanishkanaik97/introduction-to-erlang-and-elixir-b84a5f2db2eb
+[4]: https://www.manning.com/books/erlang-and-otp-in-action
+[5]: https://yalin.dev/tags/erlang/
+[6]: https://github.com/ygunayer/erlang-examples
+[7]: https://github.com/imeraj/erlang_playground
+[8]: https://github.com/videlalvaro/gen_microservice
