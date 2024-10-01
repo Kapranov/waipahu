@@ -1,0 +1,8 @@
+{"1.2.0",
+[{<<"decimal">>,{pkg,<<"decimal">>,<<"2.1.1">>},0}]}.
+[
+{pkg_hash,[
+ {<<"decimal">>, <<"5611DCA5D4B2C3DD497DEC8F68751F1F1A54755E8ED2A966C2633CF885973AD6">>}]},
+{pkg_hash_ext,[
+ {<<"decimal">>, <<"53CFE5F497ED0E7771AE1A475575603D77425099BA5FAEF9394932B35020FFCC">>}]}
+].

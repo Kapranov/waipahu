@@ -8,6 +8,16 @@ Build
 
     $ rebar3 new umbrella waipahu
 
+Support Elixir's function
+-----
+
+    >  waipahu_app:to_decimal(1).
+    1.0
+    > waipahu_app:last([1, 2, 3]).
+    3
+    > waipahu_app:downcase(<<"Aloha!">>)
+    aloha!
+
 #### 1 Oct 2024 by Oleg G.Kapranov
 
 [1]: https://rebar3.org/docs/basic_usage/
