@@ -28,3 +28,9 @@ Support Elixir's function
 [6]: https://github.com/ygunayer/erlang-examples
 [7]: https://github.com/imeraj/erlang_playground
 [8]: https://github.com/videlalvaro/gen_microservice
+
+https://medium.com/erlang-battleground/how-do-list-functions-fail-in-erlang-e022eec6eecd
+https://www.matthewgerstman.com/tech/what-the-functor/
+https://shane.logsdon.io/writing/functors-applicatives-and-monads-in-elixir/
+https://gist.github.com/amtal/1240052/cb89edda39e08257a6abd24d961b7d65a88cf814
+https://habr.com/ru/companies/otus/articles/810253/
