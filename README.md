@@ -37,3 +37,6 @@ Support Elixir's function
 [15]: https://habr.com/ru/companies/otus/articles/810253/
 [16]: https://yalin.dev/tags/erlang/
 [17]: https://dev.to/wesleimp/elixir-and-erlang-code-in-the-same-project-2l83
+[18]: https://mehrdadep.medium.com/erlang-shell-commands-cc86d8e8b12a
+[19]: https://ru.hexlet.io/courses/erlang_101/lessons/practical_erlang_application/theory_unit
+[20]: https://davekuhlman.org/erlang-app-supervisor.html
